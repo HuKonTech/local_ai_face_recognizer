@@ -8,6 +8,15 @@
 
 ---
 
+## RESPONSE STYLE
+
+- max 1–2 short paragraphs
+- minimal tokens
+- no unnecessary explanation
+- be direct and compressed
+
+---
+
 ## UX Principle: Zero-Research, One-Click Fixes
 
 **This is the most important design constraint of the project.**
